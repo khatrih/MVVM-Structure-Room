@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MVVM-Structure-Room</string>
+
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="image_not_found">Image Not Found</string>
+    <string name="empty_data">Data Not Available</string>
+    <string name="login">Login</string>
+    <string name="Home">Home</string>
+    <string name="registration">Registration</string>
+    <string name="existing_user">Existing User?</string>
+    <string name="successfully_login">Successfully Login</string>
+    <string name="detail_not_found">Wrong Details! Please try again!</string>
+</resources>
